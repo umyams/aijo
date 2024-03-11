@@ -1,0 +1,30 @@
+{
+  "name": "aijio",
+  "version": "1.0.1",
+  "description": "ai jo tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/umyams/aijo"
+  },
+  "keywords": [
+    "aijo",
+    "AI"
+  ],
+  "author": "umyams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umyams/aijo/issues"
+  },
+  "homepage": "https://github.com/umyams/aijo#readme",
+  "dependencies": {
+    "cubitt":"^1.0.3",
+    "salaks":"^1.0.0",
+    "pemilu":"^1.0.0",
+    "guessdc":"^1.0.0",
+    "matchax":"^1.0.1"
+  }
+}
